@@ -71,5 +71,3 @@ The SHX // PROTOTYPE is configured with the following hardware capabilities:
 ---
 
 ```bash
-# To clone this project:
-git clone [https://github.com/soha-m-ax/shx-prototype_v1.git](https://github.com/soha-m-ax/shx-prototype_v1.git)
