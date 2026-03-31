@@ -56,15 +56,13 @@ The SHX // PROTOTYPE is configured with the following hardware capabilities:
 
 * **7-Key Mechanical Matrix:** Fully programmable grid for high-speed macros and shortcuts.
 * **Programmable Rotary Encoder:** Precision knob for timeline scrubbing, zooming, or volume control with a built-in "click" function.
-## ⚡ Features
-
-* [cite_start]**3-Second Custom Splash Screen**: Professional "SOHAMAX SYSTEM ACTIVE" greeting on plug-in[cite: 1].
-* [cite_start]**Reactive Bongo Cat Animation**: OLED character that syncs with real-time typing speed[cite: 1].
-* [cite_start]**7-Zone Addressable RGB**: Custom lighting array with a static blue base and high-speed "White Flash" reactive triggers[cite: 1].
-* [cite_start]**Rainbow Heartbeat**: Dedicated logic for LED 2 to maintain a constant color cycle regardless of key state[cite: 1].
-* [cite_start]**Precision Volume Control**: Integrated rotary encoder for granular system audio management[cite: 1].
-* [cite_start]**6-Key Gaming Layout**: Optimized 3x3 matrix featuring a secret "F24" dead key for advanced application macros[cite: 1].
-* [cite_start]**RP2040 Speed Boost**: Leverages high-speed PIO drivers and Link Time Optimization (LTO) for zero-latency input[cite: 1].
+* **3-Second Custom Splash Screen**: Professional "SOHAMAX SYSTEM ACTIVE" greeting on plug-in[cite: 1].
+* **Reactive Bongo Cat Animation**: OLED character that syncs with real-time typing speed[cite: 1].
+* **7-Zone Addressable RGB**: Custom lighting array with a static blue base and high-speed "White Flash" reactive triggers[cite: 1].
+* **Rainbow Heartbeat**: Dedicated logic for LED 2 to maintain a constant color cycle regardless of key state[cite: 1].
+* **Precision Volume Control**: Integrated rotary encoder for granular system audio management[cite: 1].
+* **6-Key Gaming Layout**: Optimized 3x3 matrix featuring a secret "F24" dead key for advanced application macros[cite: 1].
+* **RP2040 Speed Boost**: Leverages high-speed PIO drivers and Link Time Optimization (LTO) for zero-latency input[cite: 1].
 
 ---
 > This firmware represents the stable **v1.0** release; I intend to further refine the animation states and expand the RGB functionality in future iterations to enhance the overall hardware-software integration.
