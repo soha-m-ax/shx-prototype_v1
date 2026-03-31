@@ -31,7 +31,7 @@
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT_ortho_3x3(
         KC_ESC,  XXXXXXX, XXXXXXX, 
-        KC_Q,    KC_W,    KC_F24,     // F24: Your secret "Dead Key" for apps
+        KC_Q,    KC_W,    KC_F24,     // F24:  secret "Dead Key" for apps
         KC_A,    KC_S,    KC_D        
     )
 };
