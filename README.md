@@ -1,7 +1,7 @@
 # SHX // PROTOTYPE
 ### Designed by SohaMax // Solar Strike ⚡
 
-The **SHX // PROTOTYPE** is a 7-key mechanical macro pad designed for custom inputs. This design utilizes a direct-solder architecture to maintain a slim profile and ensure structural stability. Every trace on the PCB was manually routed in KiCad 8.0.
+The **SHX // PROTOTYPE** is a 6-keys & 1 rotary encloder macro pad designed for custom inputs.
 
 ---
 
@@ -39,7 +39,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 
 ---
 
-## Technical Specifications:
+## Spec:
 
 * **MCU:** XIAO RP2040.
 * **Architecture:** 6 Mechanical Keys + 1 Rotary Encoder (Push-Button).
@@ -49,23 +49,17 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 
 ---
 
-## Features: 
-## 🚀 [SYSTEM_FEATURES] :: SPECIFICATIONS
+## Features:
 
 The SHX // PROTOTYPE is configured with the following hardware & firmware capabilities:
-
-* **7-Key Mechanical Matrix:** Fully programmable grid for high-speed macros and shortcuts.
-* **Programmable Rotary Encoder:** Precision knob for timeline scrubbing, zooming, or volume control with a built-in "click" function.
-* **3-Second Custom Splash Screen**: Professional "SOHAMAX SYSTEM ACTIVE" greeting on plug-in.
-* **Reactive Bongo Cat Animation**: OLED character that syncs with real-time typing speed.
-* **7-Zone Addressable RGB**: Custom lighting array with a static colour base and high-speed "Colour Flash" reactive triggers.
-* **Rainbow Heartbeat**: Dedicated logic for LED 2 to maintain a constant color cycle regardless of key state.
-* **Precision Volume Control**: Integrated rotary encoder for granular system audio management.
-* **6-Key Gaming Layout**: Optimized 3x3 matrix featuring a secret "F24" dead key for advanced application macros.
-* **RP2040 Speed Boost**: Leverages high-speed PIO drivers and Link Time Optimization (LTO) for zero-latency input.
+* It's have  6 keys and 1 rotary encoder (press and rotate)
+* It's have a display. At Starting it wil show my branding and after some sec. it will show a bongocat, pressing a key make the cat's hand move (hope it work)
+* Each key have each lights that can be glow brighter by pressing each key (each key make glow specific 1 light) and one exstra as side lighting...
+---
+> This firmware is not tested so i hope it will work
 
 ---
-> This firmware represents the stable **v1.0** release; I intend to further refine the animation states and expand the RGB functionality in future iterations to enhance the overall hardware-software integration.
 
+## Some bla bla:
 
----
+I really happy to make this and also learned many things like codes etc for keyboard farmware and also software like kicad, Fusion 360 etc.It's my first project with microcontroller. At first I couldn't understand anything but slow slow i learnet many more from internet. Hope everyone like it!
