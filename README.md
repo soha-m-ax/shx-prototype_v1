@@ -13,7 +13,7 @@ The final assembly of the SHX PROTOTYPE keypad.
 
 ### 2. Schematic
 The circuit diagram showing the XIAO RP2040 connected to the 7-key matrix.
-![Schematic](https://github.com/soha-m-ax/shx-prototype_v1/blob/main/assets/pcb.png)
+![Schematic](https://github.com/soha-m-ax/shx-prototype_v1/blob/main/assets/schematic.png)
 
 ### 3. PCB Layout
 The custom 2-layer board design featuring hand-routed traces and mascot art.
