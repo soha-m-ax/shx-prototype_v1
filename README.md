@@ -53,13 +53,14 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 
 The SHX // PROTOTYPE is configured with the following hardware & firmware capabilities:
 * It's have  6 keys and 1 rotary encoder (press and rotate)
-* It's have a display. At Starting it wil show my branding and after some sec. it will show a bongocat, pressing a key make the cat's hand move (hope it work)
+* It's have a display. At Starting it will show my branding and after some sec. it will show a bongocat, pressing a key make the cat's hand move (hope it work)
 * Each key have each lights that can be glow brighter by pressing each key (each key make glow specific 1 light) and one exstra as side lighting...
 ---
-> This firmware is not tested so i hope it will work
+> This firmware is not tested so i hope it will work... :-)
 
 ---
 
 ## Some bla bla:
 
 I really happy to make this and also learned many things like codes etc for keyboard farmware and also software like kicad, Fusion 360 etc.It's my first project with microcontroller. At first I couldn't understand anything but slow slow i learnet many more from internet. Hope everyone like it!
+## Thanks hack club to give me a chance to show my skills and make them real. I will make many more things!!...
