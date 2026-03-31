@@ -1,11 +1,11 @@
-# SHX // PROTOTYPE
+# SHX // PROTOTYPE:-
 ### Designed by SohaMax // Solar Strike ⚡
 
 The **SHX // PROTOTYPE** is a 7-key mechanical macro pad designed for custom inputs. This design utilizes a direct-solder architecture to maintain a slim profile and ensure structural stability. Every trace on the PCB was manually routed in KiCad 8.0.
 
 ---
 
-## Visuals
+## Visuals:
 
 ### 1. CAD View
 The final assembly of the SHX keypad.
@@ -22,7 +22,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 
 ---
 
-## Bill of Materials (BOM)
+## Bill of Materials (BOM):
 
 | Component | Quantity | Purpose |
 | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 
 ---
 
-## Technical Specifications
+## Technical Specifications:
 
 * **MCU:** XIAO RP2040.
 * **Architecture:** 7-key matrix with 1 knob key .
@@ -49,9 +49,8 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 
 ---
 
-## Project Log
+## Features:
 
-The SHX project is a functional hardware tool. The design removes unnecessary hotswap layers to achieve a lower profile and a more stable electrical connection. All assets are contained within this repository for manufacturing and assembly.
 
 ---
 
