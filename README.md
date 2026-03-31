@@ -28,7 +28,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 | :--- | :--- | :--- |
 | **Seeed Studio XIAO RP2040** | 1 | Microcontroller |
 | **Through-hole 1N4148 Diodes** | 7 | Signal Logic |
-| **Mechanical Switches (MX-Style)** | 7 | Key Inputs |
+| **Mechanical Switches (MX-Style)** | 6 | Key Inputs |
 | **EC11 Rotary Encoders** | 1 | Knob Inputs |
 | **0.91 inch OLED Display** | 1 | Screen view |
 | **DSA keycaps (White)** | 1 | Knob Inputs |
