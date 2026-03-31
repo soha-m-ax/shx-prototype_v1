@@ -9,7 +9,7 @@ The **SHX // PROTOTYPE** is a 7-key mechanical macro pad designed for custom inp
 
 ### 1. CAD View
 The final assembly of the SHX keypad.
-![Overall View](assets/hero_shot.png)
+![Overall View](https://github.com/soha-m-ax/shx-prototype_v1/blob/main/assets/cad.png)
 
 ### 2. Schematic
 The circuit diagram showing the XIAO RP2040 connected to the 7-key matrix.
