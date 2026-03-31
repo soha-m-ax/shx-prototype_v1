@@ -33,9 +33,9 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 | **0.91 inch OLED Display** | 1 | Screen view |
 | **DSA keycaps (White)** | 1 | Keycap Fit|
 | **SK6812 MINI-E LEDs** | 7 | Custom lighting |
-| **M3x16mm Screws** | 3 | | 3D CASE FITING |
-| **M3x5mx4mm Heatset Inserts** | 3 | | 3D CASE FITING |
-| **SHX v1 Custom PCB** | 1 | PCB Board |
+| **M3x16mm Screws** | 3 | | 3D Case Fiting |
+| **M3x5mx4mm Heatset Inserts** | 3 | | 3D Case Fiting |
+| **SHX v1 Custom PCB** | Each 1 | PCB Board |
 | **3D Printed Top Cover & Main Case** | 1 | Enclosure |
 
 ---
