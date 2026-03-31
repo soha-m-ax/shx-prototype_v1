@@ -64,6 +64,7 @@ The SHX // PROTOTYPE is configured with the following hardware & firmware capabi
 
 I really happy to make this and also learned many things like codes etc for keyboard's farmware and also software like kicad, Fusion 360 etc.It's my first project with microcontroller. At first I couldn't understand anything but slow slow i learnet many more from internet. Hope everyone like it!
 ## Thanks hack club to give me a chance to show my skills and make them real. I will make many more things!!...
- * {\__/} *
-* ( • . •) *
-*  / >♥️ *
+
+ * {\__/} 
+* ( • . •) 
+*  / >♥️ 
