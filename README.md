@@ -49,7 +49,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 
 ---
 
-## Features:
+## Features:soon!
 
 
 ---
