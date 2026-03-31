@@ -69,5 +69,3 @@ The SHX // PROTOTYPE is configured with the following hardware capabilities:
 
 
 ---
-
-```bash
