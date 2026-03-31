@@ -1,13 +1,13 @@
 # SHX // PROTOTYPE
 ### Designed by SohaMax // Solar Strike ⚡
 
-The **SHX // PROTOTYPE** is a 7-key mechanical macro pad designed for custom inputs in 3D animation and CAD. This design utilizes a direct-solder architecture to maintain a slim profile and ensure structural stability. Every trace on the PCB was manually routed in KiCad 8.0.
+The **SHX // PROTOTYPE** is a 7-key mechanical macro pad designed for custom inputs. This design utilizes a direct-solder architecture to maintain a slim profile and ensure structural stability. Every trace on the PCB was manually routed in KiCad 8.0.
 
 ---
 
-## Required Visuals
+## Visuals
 
-### 1. Overall View
+### 1. CAD View
 The final assembly of the SHX keypad.
 ![Overall View](assets/hero_shot.png)
 
@@ -19,9 +19,6 @@ The circuit diagram showing the XIAO RP2040 connected to the 7-key matrix.
 The custom 2-layer board design featuring hand-routed traces and mascot art.
 ![PCB Layout](assets/pcb_view.png)
 
-### 4. Case and Assembly
-The 3D-printed top cover designed in Fusion 360, shown fitting onto the PCB.
-![Case Assembly](assets/assembly_view.png)
 
 ---
 
@@ -30,11 +27,16 @@ The 3D-printed top cover designed in Fusion 360, shown fitting onto the PCB.
 | Component | Quantity | Purpose |
 | :--- | :--- | :--- |
 | **Seeed Studio XIAO RP2040** | 1 | Microcontroller |
-| **Mechanical Switches (MX)** | 7 | Key Inputs |
-| **1N4148 Diodes** | 7 | Signal Logic |
-| **SHX v1 Custom PCB** | 1 | Main Board |
-| **3D Printed Top Cover** | 1 | Enclosure |
-| **USB-C Cable** | 1 | Power/Data Link |
+| **Through-hole 1N4148 Diodes** | 7 | Signal Logic |
+| **Mechanical Switches (MX-Style)** | 7 | Key Inputs |
+| **EC11 Rotary Encoders** | 1 | Knob Inputs |
+| **0.91 inch OLED Display** | 1 | Screen view |
+| **DSA keycaps (White)** | 1 | Knob Inputs |
+| **SK6812 MINI-E LEDs** | 7 | Custom lighting |
+| **M3x16mm Screws** | 3 | | 3D CASE FITING |
+| **M3x5mx4mm Heatset Inserts** | 3 | | 3D CASE FITING |
+| **SHX v1 Custom PCB** | 1 | PCB Board |
+| **3D Printed Top Cover & Main Case** | 1 | Enclosure |
 
 ---
 
