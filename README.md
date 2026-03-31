@@ -1,4 +1,4 @@
-# SHX // PROTOTYPE:-
+# SHX // PROTOTYPE
 ### Designed by SohaMax // Solar Strike ⚡
 
 The **SHX // PROTOTYPE** is a 7-key mechanical macro pad designed for custom inputs. This design utilizes a direct-solder architecture to maintain a slim profile and ensure structural stability. Every trace on the PCB was manually routed in KiCad 8.0.
