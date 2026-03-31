@@ -52,7 +52,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 ## Features: 
 ## 🚀 [SYSTEM_FEATURES] :: SPECIFICATIONS
 
-The SHX // PROTOTYPE is configured with the following hardware capabilities:
+The SHX // PROTOTYPE is configured with the following hardware & firmware capabilities:
 
 * **7-Key Mechanical Matrix:** Fully programmable grid for high-speed macros and shortcuts.
 * **Programmable Rotary Encoder:** Precision knob for timeline scrubbing, zooming, or volume control with a built-in "click" function.
