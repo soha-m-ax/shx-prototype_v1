@@ -31,7 +31,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 | **Mechanical Switches (MX-Style)** | 6 | Key Inputs |
 | **EC11 Rotary Encoders** | 1 | Knob Inputs |
 | **0.91 inch OLED Display** | 1 | Screen view |
-| **DSA keycaps (White)** | 1 | keycap fit|
+| **DSA keycaps (White)** | 1 | Keycap Fit|
 | **SK6812 MINI-E LEDs** | 7 | Custom lighting |
 | **M3x16mm Screws** | 3 | | 3D CASE FITING |
 | **M3x5mx4mm Heatset Inserts** | 3 | | 3D CASE FITING |
