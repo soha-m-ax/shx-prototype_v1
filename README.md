@@ -31,7 +31,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 | **Mechanical Switches (MX-Style)** | 6 | Key Inputs |
 | **EC11 Rotary Encoders** | 1 | Knob Inputs |
 | **0.91 inch OLED Display** | 1 | Screen view |
-| **DSA keycaps (White)** | 1 | Keycap Fit|
+| **DSA keycaps (White)** | 6 | Keycap Fit|
 | **SK6812 MINI-E LEDs** | 7 | Custom lighting |
 | **M3x16mm Screws** | 3 | | 3D Case Fiting |
 | **M3x5mx4mm Heatset Inserts** | 3 | | 3D Case Fiting |
@@ -42,7 +42,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 ## Technical Specifications:
 
 * **MCU:** XIAO RP2040.
-* **Architecture:** 7-key matrix include 1 knob key .
+* **Architecture:** Architecture: 6 Mechanical Keys + 1 Rotary Encoder (Push-Button).
 * **Firmware:** QMK (For now)
 * **PCB Design:** KiCad 8.0.
 * **CAD Design:** Fusion 360.
