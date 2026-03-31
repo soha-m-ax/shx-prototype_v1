@@ -17,7 +17,7 @@ The circuit diagram showing the XIAO RP2040 connected to the 7-key matrix.
 
 ### 3. PCB Layout
 The custom 2-layer board design featuring hand-routed traces and mascot art.
-![PCB Layout](assets/pcb_view.png)
+![PCB Layout](https://github.com/soha-m-ax/shx-prototype_v1/blob/main/assets/pcb.png)
 
 
 ---
