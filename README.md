@@ -60,6 +60,11 @@ The SHX // PROTOTYPE is configured with the following hardware & firmware capabi
 
 ---
 
+## Notes:
+It will be nice to print all my 3d cash in yellow colour. (plz)
+
+---
+
 ## Some bla bla:
 
 I really happy to make this and also learned many things like codes etc for keyboard's farmware and also software like kicad, Fusion 360 etc. It's my first project with microcontroller. At first I couldn't understand anything but slow slow i learnet many more from internet. Hope everyone like it!
