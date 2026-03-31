@@ -42,7 +42,7 @@ The custom 2-layer board design featuring hand-routed traces and mascot art.
 ## Technical Specifications:
 
 * **MCU:** XIAO RP2040.
-* **Architecture:** 7-key matrix with 1 knob key .
+* **Architecture:** 7-key matrix include 1 knob key .
 * **Firmware:** QMK (For now)
 * **PCB Design:** KiCad 8.0.
 * **CAD Design:** Fusion 360.
